@@ -1,6 +1,6 @@
 ---
-name: ''
-about: ''
+name: test
+about: test issue
 title: Release failure for {{ ref }}
 labels: ''
 assignees: ''
